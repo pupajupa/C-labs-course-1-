@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\oaip 2022\laba3\Project1\Source.cpp(6,52): warning C4305: инициализация: усечение из "__int64" в "int"
+E:\oaip 2022\laba3\Project1\Source.cpp(6,10): warning C4309: инициализация: усечение константного значения
+E:\oaip 2022\laba3\Project1\Source.cpp(7,61): warning C4305: инициализация: усечение из "__int64" в "unsigned int"
+E:\oaip 2022\laba3\Project1\Source.cpp(7,19): warning C4309: инициализация: усечение константного значения
+  Project1.vcxproj -> E:\oaip 2022\laba3\Project1\x64\Debug\Project1.exe

@@ -1,0 +1,5 @@
+﻿  task6.cpp
+E:\oaip 2022\LabaRab6\task6\task6.cpp(16,41): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab6\task6\task6.cpp(26,31): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+E:\oaip 2022\LabaRab6\task6\task6.cpp(26,14): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  task6.vcxproj -> E:\oaip 2022\LabaRab6\x64\Debug\task6.exe

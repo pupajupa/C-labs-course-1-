@@ -1,0 +1,11 @@
+﻿  test.cpp
+E:\oaip 2022\LabaRab7\TestTask8\test.cpp(5,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+E:\oaip 2022\LabaRab7\TestTask8\test.cpp(9,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+E:\oaip 2022\LabaRab7\TestTask8\test.cpp(14,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+E:\oaip 2022\LabaRab7\TestTask8\test.cpp(31,34): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\TestTask8\test.cpp(37,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\TestTask8\test.cpp(40,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\TestTask8\test.cpp(46,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\TestTask8\test.cpp(49,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\TestTask8\test.cpp(55,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  TestTask8.vcxproj -> E:\oaip 2022\LabaRab7\x64\Debug\TestTask8.exe

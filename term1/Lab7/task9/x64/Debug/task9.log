@@ -1,0 +1,3 @@
+﻿  task9.cpp
+E:\oaip 2022\LabaRab7\task9\task9.cpp(73): warning C4715: repeat: значение возвращается не при всех путях выполнения
+  task9.vcxproj -> E:\oaip 2022\LabaRab7\x64\Debug\task9.exe

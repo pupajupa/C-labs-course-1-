@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\oaip 2022\LabaRab7\TestTask4\test.cpp(6,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+E:\oaip 2022\LabaRab7\TestTask4\test.cpp(11,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+  TestTask4.vcxproj -> E:\oaip 2022\LabaRab7\x64\Debug\TestTask4.exe

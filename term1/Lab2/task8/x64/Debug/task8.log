@@ -1,0 +1,4 @@
+﻿  task8.cpp
+E:\oaip 2022\laba2\task8\task8.cpp(12,57): warning C4101: y: неиспользованная локальная переменная
+E:\oaip 2022\laba2\task8\task8.cpp(12,71): warning C4101: d: неиспользованная локальная переменная
+  task8.vcxproj -> E:\oaip 2022\laba2\task8\x64\Debug\task8.exe

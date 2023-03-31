@@ -1,0 +1,12 @@
+﻿  test.cpp
+E:\oaip 2022\LabaRab5\TestTask4\test.cpp(24,30): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+E:\oaip 2022\LabaRab5\TestTask4\test.cpp(24,25): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+E:\oaip 2022\LabaRab5\TestTask4\test.cpp(25,14): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+E:\oaip 2022\LabaRab5\TestTask4\test.cpp(26,14): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+E:\oaip 2022\LabaRab5\TestTask4\test.cpp(27,14): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+E:\oaip 2022\LabaRab5\TestTask4\test.cpp(28,14): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+E:\oaip 2022\LabaRab5\TestTask4\test.cpp(29,30): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+E:\oaip 2022\LabaRab5\TestTask4\test.cpp(29,25): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+E:\oaip 2022\LabaRab5\TestTask4\test.cpp(31,30): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+E:\oaip 2022\LabaRab5\TestTask4\test.cpp(31,25): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  TestTask4.vcxproj -> E:\oaip 2022\LabaRab5\x64\Debug\TestTask4.exe

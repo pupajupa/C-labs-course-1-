@@ -1,0 +1,18 @@
+﻿  task2.cpp
+E:\oaip 2022\LabaRab7\task2\task2.cpp(59,81): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task2\task2.cpp(60,83): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task2\task2.cpp(98,42): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task2\task2.cpp(114,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task2\task2.cpp(132,43): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task2\task2.cpp(155,54): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task2\task2.cpp(155,54): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task2\task2.cpp(230,73): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task2\task2.cpp(230,73): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task2\task2.cpp(240,80): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task2\task2.cpp(240,80): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task2\task2.cpp(249,55): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task2\task2.cpp(249,55): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task2\task2.cpp(279,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task2\task2.cpp(279,47): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task2\task2.cpp(420): warning C4715: repeat: значение возвращается не при всех путях выполнения
+  task2.vcxproj -> E:\oaip 2022\LabaRab7\x64\Debug\task2.exe

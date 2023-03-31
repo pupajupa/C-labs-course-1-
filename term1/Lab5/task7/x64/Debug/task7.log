@@ -1,0 +1,7 @@
+﻿  task7.cpp
+E:\oaip 2022\LabaRab5\task7\task7.cpp(15,16): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+E:\oaip 2022\LabaRab5\task7\task7.cpp(16,64): warning C4244: аргумент: преобразование "__int64" в "long", возможна потеря данных
+E:\oaip 2022\LabaRab5\task7\task7.cpp(16,61): warning C4244: аргумент: преобразование "__int64" в "long", возможна потеря данных
+E:\oaip 2022\LabaRab5\task7\task7.cpp(16,56): warning C4244: аргумент: преобразование "__int64" в "long", возможна потеря данных
+E:\oaip 2022\LabaRab5\task7\task7.cpp(6,15): warning C4101: res: неиспользованная локальная переменная
+  task7.vcxproj -> E:\oaip 2022\LabaRab5\x64\Debug\task7.exe

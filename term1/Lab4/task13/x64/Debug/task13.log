@@ -1,0 +1,3 @@
+﻿  task13.cpp
+E:\oaip 2022\LabaRab4\task13\task13.cpp(95,40): warning C4018: <=: несоответствие типов со знаком и без знака
+  task13.vcxproj -> E:\oaip 2022\LabaRab4\task13\x64\Debug\task13.exe

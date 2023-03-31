@@ -1,0 +1,5 @@
+﻿  task5.cpp
+E:\oaip 2022\LabaRab5\task5\task5.cpp(62,39): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+E:\oaip 2022\LabaRab5\task5\task5.cpp(65,32): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+E:\oaip 2022\LabaRab5\task5\task5.cpp(100,51): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+  task5.vcxproj -> E:\oaip 2022\LabaRab5\Debug\task5.exe

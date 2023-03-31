@@ -1,0 +1,9 @@
+﻿  task3.cpp
+E:\oaip 2022\LabaRab7\task3\task3.cpp(24,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task3\task3.cpp(26,36): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+E:\oaip 2022\LabaRab7\task3\task3.cpp(104,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task3\task3.cpp(127,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task3\task3.cpp(162,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task3\task3.cpp(183,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task3\task3.cpp(218): warning C4715: repeat: значение возвращается не при всех путях выполнения
+  task3.vcxproj -> E:\oaip 2022\LabaRab7\x64\Debug\task3.exe

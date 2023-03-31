@@ -1,0 +1,3 @@
+﻿  task3.cpp
+E:\oaip 2022\LabaRab6\task3\task3.cpp(156): warning C4715: repeat: значение возвращается не при всех путях выполнения
+  task3.vcxproj -> E:\oaip 2022\LabaRab6\x64\Debug\task3.exe

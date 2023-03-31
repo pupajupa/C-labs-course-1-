@@ -1,0 +1,4 @@
+﻿  task12.cpp
+E:\oaip 2022\LabaRab4\task12\task12.cpp(7,44): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+E:\oaip 2022\LabaRab4\task12\task12.cpp(9,24): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+  task12.vcxproj -> E:\oaip 2022\LabaRab4\task12\x64\Debug\task12.exe

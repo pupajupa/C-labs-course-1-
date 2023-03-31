@@ -1,0 +1,11 @@
+﻿  classFunc.cpp
+  The contents of <ranges> are available only with C++20 or later.
+E:\oaip 2022\LabaRab8\task3\Header.h(3,19): warning C4091: typedef : пропускается слева от "Shop", когда ни одна переменная не объявлена
+E:\oaip 2022\LabaRab8\task3\Header.h(4,18): warning C4091: typedef : пропускается слева от "Ceh", когда ни одна переменная не объявлена
+E:\oaip 2022\LabaRab8\task3\Header.h(5,25): warning C4091: typedef : пропускается слева от "Enterprise", когда ни одна переменная не объявлена
+E:\oaip 2022\LabaRab8\task3\classFunc.cpp(11,2): warning C4091: typedef : пропускается слева от "Shop", когда ни одна переменная не объявлена
+E:\oaip 2022\LabaRab8\task3\classFunc.cpp(15,2): warning C4091: typedef : пропускается слева от "Ceh", когда ни одна переменная не объявлена
+E:\oaip 2022\LabaRab8\task3\classFunc.cpp(22,2): warning C4091: typedef : пропускается слева от "Enterprise", когда ни одна переменная не объявлена
+E:\oaip 2022\LabaRab8\task3\classFunc.cpp(311,9): warning C4101: a: неиспользованная локальная переменная
+E:\oaip 2022\LabaRab8\task3\classFunc.cpp(290): warning C4715: searchProducts: значение возвращается не при всех путях выполнения
+  task3.vcxproj -> E:\oaip 2022\LabaRab8\x64\Debug\task3.exe

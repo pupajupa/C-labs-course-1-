@@ -1,0 +1,3 @@
+﻿  task8.cpp
+E:\oaip 2022\LabaRab5\task8\task8.cpp(52,20): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+  task8.vcxproj -> E:\oaip 2022\LabaRab5\x64\Debug\task8.exe

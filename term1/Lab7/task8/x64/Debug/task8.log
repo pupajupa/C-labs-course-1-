@@ -1,0 +1,9 @@
+﻿  task8.cpp
+E:\oaip 2022\LabaRab7\task8\task8.cpp(23,34): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task8\task8.cpp(29,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task8\task8.cpp(32,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task8\task8.cpp(38,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task8\task8.cpp(41,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task8\task8.cpp(47,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oaip 2022\LabaRab7\task8\task8.cpp(8,9): warning C4101: pos1: неиспользованная локальная переменная
+  task8.vcxproj -> E:\oaip 2022\LabaRab7\x64\Debug\task8.exe

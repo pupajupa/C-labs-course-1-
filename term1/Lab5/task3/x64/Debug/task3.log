@@ -1,0 +1,6 @@
+﻿  task3.cpp
+E:\oaip 2022\LabaRab5\task3\task3.cpp(30,17): warning C4477: "scanf_s": в строке форматирования "%ld" требуется аргумент типа "long *", но вариативный аргумент "1" имеет тип "__int64 *"
+E:\oaip 2022\LabaRab5\task3\task3.cpp(30,17): message : рекомендуется использовать "%lld" в строке форматирования
+E:\oaip 2022\LabaRab5\task3\task3.cpp(30,17): message : рекомендуется использовать "%Id" в строке форматирования
+E:\oaip 2022\LabaRab5\task3\task3.cpp(30,17): message : рекомендуется использовать "%I64d" в строке форматирования
+  task3.vcxproj -> E:\oaip 2022\LabaRab5\x64\Debug\task3.exe
