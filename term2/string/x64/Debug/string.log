@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\string\Source.cpp(50,1): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+E:\string\Source.cpp(81,1): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+E:\string\Source.cpp(134,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  string.vcxproj -> E:\string\x64\Debug\string.exe
